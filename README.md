@@ -28,3 +28,5 @@ Robot-Fleet-Scheduler/
 ├── README.md
 └── LICENSE
 ```
+
+*If you find this project useful, please consider giving it a star "⭐" — it may helps other robotics and algorithms enthusiasts discover it!*
