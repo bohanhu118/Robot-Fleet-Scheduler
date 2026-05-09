@@ -52,9 +52,7 @@ Robot-Fleet-Scheduler/
    
 3. **𝑅𝑢𝑛 𝑡ℎ𝑒 𝑠𝑜𝑙𝑣𝑒𝑟𝑠**
    ```
-   # Run the time-expanded BFS solver
    java RobotPlanner01
-   # Run the state-graph BFS solver
    java RobotPlanner02
    ```
 
