@@ -29,4 +29,33 @@ Robot-Fleet-Scheduler/
 └── LICENSE
 ```
 
+
+## 🚀 𝐼𝑛𝑠𝑡𝑎𝑙𝑙𝑎𝑡𝑖𝑜𝑛  
+
+### 𝑃𝑟𝑒𝑟𝑒𝑞𝑢𝑖𝑠𝑖𝑡𝑒𝑠  
+- 𝐽𝑎𝑣𝑎 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 𝐾𝑖𝑡 (𝐽𝐷𝐾)
+- 𝐴𝑛𝑦 𝑡𝑒𝑥𝑡 𝑒𝑑𝑖𝑡𝑜𝑟 𝑜𝑟 𝐽𝑎𝑣𝑎 𝐼𝐷𝐸
+
+### 𝑆𝑡𝑒𝑝-𝑏𝑦-𝑆𝑡𝑒𝑝 𝑆𝑒𝑡𝑢𝑝  
+
+1. **𝐶𝑙𝑜𝑛𝑒 𝑡ℎ𝑒 𝑟𝑒𝑝𝑜𝑠𝑖𝑡𝑜𝑟𝑦**
+   ```
+   git clone https://github.com/bohanhu118/Robot-Fleet-Scheduler.git
+   cd Robot-Fleet-Scheduler
+   ```
+   
+2. **𝐶𝑜𝑚𝑝𝑖𝑙𝑒 𝑡ℎ𝑒 𝑠𝑜𝑢𝑟𝑐𝑒 𝑓𝑖𝑙𝑒𝑠**
+   ```
+   javac RobotPlanner01.java
+   javac RobotPlanner02.java
+   ```
+   
+3. **𝑅𝑢𝑛 𝑡ℎ𝑒 𝑠𝑜𝑙𝑣𝑒𝑟𝑠**
+   ```
+   # Run the time-expanded BFS solver
+   java RobotPlanner01
+   # Run the state-graph BFS solver
+   java RobotPlanner02
+   ```
+
 *𝐼𝑓 𝑦𝑜𝑢 𝑓𝑖𝑛𝑑 𝑡ℎ𝑖𝑠 𝑝𝑟𝑜𝑗𝑒𝑐𝑡 𝑢𝑠𝑒𝑓𝑢𝑙, 𝑝𝑙𝑒𝑎𝑠𝑒 𝑐𝑜𝑛𝑠𝑖𝑑𝑒𝑟 𝑔𝑖𝑣𝑖𝑛𝑔 𝑖𝑡 𝑎 𝑠𝑡𝑎𝑟 "⭐" — 𝑖𝑡 𝑚𝑎𝑦 ℎ𝑒𝑙𝑝𝑠 𝑜𝑡ℎ𝑒𝑟 𝑟𝑜𝑏𝑜𝑡𝑖𝑐𝑠 𝑎𝑛𝑑 𝑎𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚𝑠 𝑒𝑛𝑡ℎ𝑢𝑠𝑖𝑎𝑠𝑡𝑠 𝑑𝑖𝑠𝑐𝑜𝑣𝑒𝑟 𝑖𝑡!*
